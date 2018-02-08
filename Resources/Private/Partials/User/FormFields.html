@@ -1,0 +1,18 @@
+<html xmlns:f="https://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<label for="fullName">
+	<f:translate key="tx_userpolicy_domain_model_user.full_name" />
+</label><br />
+	<f:form.textfield property="fullName" /><br />
+<label for="userID">
+	<f:translate key="tx_userpolicy_domain_model_user.user_i_d" />
+</label><br />
+	<f:form.textfield property="userID" /><br />
+<label for="startDate">
+	<f:translate key="tx_userpolicy_domain_model_user.start_date" />
+</label><br />
+	<f:form.textfield property="startDate" value="{user.startDate->f:format.date()}" /><br />
+<label for="endDate">
+	<f:translate key="tx_userpolicy_domain_model_user.end_date" />
+</label><br />
+	<f:form.textfield property="endDate" value="{user.endDate->f:format.date()}" /><br />
+</html>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-02-08T15:19:50Z" product-name="user_policy">
+		<header/>
+		<body>
+			<trans-unit id="tx_userpolicy_domain_model_user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.full_name">
+				<source>Full Name</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.user_i_d">
+				<source>User I D</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.start_date">
+				<source>Start Date</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.end_date">
+				<source>End Date</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.policy">
+				<source>Policy</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.vehicle">
+				<source>Vehicle</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_user.bill">
+				<source>Bill</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_policy">
+				<source>Policy</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_policy.policy_name">
+				<source>Policy Name</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_policy.total_amount">
+				<source>Total Amount</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_bill">
+				<source>Bill</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_bill.policy_i_d">
+				<source>Policy I D</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_bill.vehicle_i_d">
+				<source>Vehicle I D</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_bill.bill_amount">
+				<source>Bill Amount</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_vehicle">
+				<source>Vehicle</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_vehicle.vehicle_number">
+				<source>Vehicle Number</source>
+			</trans-unit>
+			<trans-unit id="tx_userpolicy_domain_model_vehicle.model">
+				<source>Model</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

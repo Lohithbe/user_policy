@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-02-08T15:19:50Z" product-name="user_policy">
+		<header/>
+		<body>
+			<trans-unit id="full_name.description">
+				<source>fullName</source>
+			</trans-unit>
+			<trans-unit id="user_i_d.description">
+				<source>userID</source>
+			</trans-unit>
+			<trans-unit id="start_date.description">
+				<source>startDate</source>
+			</trans-unit>
+			<trans-unit id="end_date.description">
+				<source>endDate</source>
+			</trans-unit>
+			<trans-unit id="policy.description">
+				<source>policy</source>
+			</trans-unit>
+			<trans-unit id="vehicle.description">
+				<source>vehicle</source>
+			</trans-unit>
+			<trans-unit id="bill.description">
+				<source>bill</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

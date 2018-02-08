@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-02-08T15:19:50Z" product-name="user_policy">
+		<header/>
+		<body>
+			<trans-unit id="vehicle_number.description">
+				<source>vehicleNumber</source>
+			</trans-unit>
+			<trans-unit id="model.description">
+				<source>model</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
